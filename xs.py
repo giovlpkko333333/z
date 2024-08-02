@@ -32,7 +32,7 @@ app = Client(
     "autoPost",
     api_id="29510141",
     api_hash="14c074a5aed49dc7752a9f8d54cf4ad4",
-    bot_token="6357128136:AAGOGrC9uvfaZX_Hpy24DRWd4gbLpNztZqI",#توكنك
+    bot_token="7029980174:AAH2xtlHPCQThmN-Eux73lqNwWsLICTgt5E",#توكنك
 )
 loop = get_event_loop()
 listener = Listener(client = app)
